@@ -1,1 +1,22 @@
+5. Check for Balanced Parentheses Using Stack
+Problem: Write a function that takes a string containing parentheses and checks if they are balanced. For example:
+
+"({[]})" is balanced.
+"([)]" is not balanced.
+
+6. Implement a Circular Queue
+Problem: Implement a circular queue where the queue automatically wraps around once it reaches the end of the array.
+
+7. Find the Middle Element in a Linked List
+Problem: Given a singly linked list, find the middle element in the linked list.
+
+8. Depth-First Search (DFS) for a Graph
+Problem: Implement a Depth-First Search (DFS) for a graph using adjacency lists.
+
+9. Merge Two Binary Search Trees
+Problem: Given two binary search trees (BSTs), merge them into a single sorted list of elements
+
+10. Find the Shortest Path in an Unweighted Graph Using BFS
+Problem: Find the shortest path between two nodes in an unweighted graph using Breadth-First Search (BFS).
+
 
