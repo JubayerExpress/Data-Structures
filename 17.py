@@ -4,18 +4,7 @@ from collections import deque
 class Graph:
     def __init__(self):
         self.graph = {}
-
-    def add_edge(self, u, v):
-        if u not in self.graph:
-            self.graph[u] = []
-        self.graph[u].append(v)
-
-    def bfs_shortest_path(self, start, goal):
-        visited = set()
-        queue = deque([[start]])
-
-        if start == goal:
-            return [start]
+ 
 
         while queue:
             path = queue.popleft()
